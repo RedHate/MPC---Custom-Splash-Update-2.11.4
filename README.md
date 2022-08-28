@@ -5,9 +5,17 @@ Q) What do these do?
 
 A) They flash the splash partition of your MPC with a new image.
 
+Q) Can I return to my old boot splash? 
+
+A) No, unfortunately once you flash a new image the old one is gone.
+
+Q) Will this work on my MPC _____ ?
+
+A) Yes, it will work on any MPC, every single one including the MPC Key.
+
 Q) How to install?
 
-A) Make sure you choose the update image from the folder that represents which device you are using then like any other mpc update copy it to the root of a usb or sd card and install it from the settings menu, it takes only a couple seconds since it's not a full firmware update.
+A) Download the image, copy it to a usb or sd card and install it from the settings menu.
 
 Q) Is this dangerous? 
 
